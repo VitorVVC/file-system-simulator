@@ -1,0 +1,6 @@
+*.class
+dados.dat
+journal.log
+.DS_Store
+.idea/
+*.iml
